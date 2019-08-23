@@ -1,0 +1,34 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "John doe",
+      "email": "john@gmail.com",
+      "age": 24
+    },
+    {
+      "id": "2",
+      "name": "Hasanga lakdinu",
+      "email": "hasang@gmail.com",
+      "age": 65
+    },
+    {
+      "id": "3",
+      "name": "Karunadasa",
+      "email": "karunadasa@gmail.com",
+      "age": 32
+    },
+    {
+      "id": "5",
+      "name": "brother",
+      "email": "brother@gmail.com",
+      "age": 33
+    },
+    {
+      "name": "Hasanga Lakdinu",
+      "email": "hasa@gmail.com",
+      "age": 24,
+      "id": "pt4h5CK"
+    }
+  ]
+}
